@@ -76,6 +76,24 @@
     height: 74vh;
 
     transform: scale(1.0);
+<<<<<<< HEAD
+=======
+    /*transition: transform 3.8s ease; */
+
+    /*animation: koiFishHover infinite; */
+
+    /*background-color: #0d68be; */
+    
+    /*border: 4px solid #bd2511; *//* Change border color when hovering over fish */
+
+    
+
+    /*
+    transform: scale(1.05);
+    transition: transform 0.3s ease-in-out;
+    border: 4px solid #bd2511; */ /* Change border color on hover */
+    /*background-color: whitesmoke; */
+>>>>>>> d34849529184a4ed4c70ecb5d9147309a22b4fd3
 }
 
 @keyframes koiFishHover{
@@ -144,6 +162,12 @@ header{
 .logo{
     font-size: 25px;
 
+<<<<<<< HEAD
+=======
+    /*width:100px;
+    height: 50px; */
+
+>>>>>>> d34849529184a4ed4c70ecb5d9147309a22b4fd3
     color: #dfdada;
     text-decoration: none;  /*remove underline*/
     font-weight: 400;
@@ -277,6 +301,14 @@ header{
 
 }
 
+<<<<<<< HEAD
+=======
+/*
+.ScrollDownforNavBar{
+    
+}
+*/
+>>>>>>> d34849529184a4ed4c70ecb5d9147309a22b4fd3
 
     /*(Codehal, 2023)*/
 .home-information h1.mainHeading{
@@ -440,6 +472,12 @@ header{
     /*position: relative; */
     
     position: fixed;
+<<<<<<< HEAD
+=======
+    
+    /*left: 20px;
+    top: 20px; */
+>>>>>>> d34849529184a4ed4c70ecb5d9147309a22b4fd3
 
     top: 490px;
     left: 0;
@@ -452,7 +490,24 @@ header{
 
     padding: 0 5%;
 
+<<<<<<< HEAD
     display:flex;
+=======
+    /*
+    top: 490px;
+    left: 300px;
+    */
+
+    /*
+    height: 25vh;
+    */
+
+    display:flex;
+    /* padding: 10 5%; */
+    
+    /*position: absolute; */
+
+>>>>>>> d34849529184a4ed4c70ecb5d9147309a22b4fd3
 } 
 
 
@@ -463,6 +518,16 @@ header{
   /*(Codehal, 2023)*/
 .backToHome a{
     position: relative;
+<<<<<<< HEAD
+=======
+
+    /*
+    position: absolute;
+    top: 90vh;
+    left: 20px;
+    */
+
+>>>>>>> d34849529184a4ed4c70ecb5d9147309a22b4fd3
     display:inline-flex;
     justify-content: center;
     align-items: center;
@@ -551,6 +616,14 @@ section{
 
     filter:blur(0);
     transform: translateX(0);
+<<<<<<< HEAD
+=======
+   
+    /*
+    transition: opacity 0.5s ease-in-out;
+    /*transition: opacity 0.5s ease-in-out; */
+
+>>>>>>> d34849529184a4ed4c70ecb5d9147309a22b4fd3
 }
 
 /*(Beyond Fireship, 2022)*/
@@ -574,6 +647,72 @@ section{
     z-index: 1;
 }
 
+<<<<<<< HEAD
+=======
+/* LATEST VERSION
+.artworkGallery > div:nth-child(1){
+    transition-delay: 200ms;
+
+}
+
+.artworkGallery > div:nth-child(2){
+    transition-delay: 400ms;
+    
+}
+
+.artworkGallery > div:nth-child(3){
+    transition-delay: 600ms;
+    
+}
+.artworkGallery > div:nth-child(4){
+    transition-delay: 800ms;
+    
+}
+
+.artworkGallery > div:nth-child(5){
+    transition-delay: 1000ms;
+    
+}
+
+*/
+
+/* TEST OF LATEST VERSION
+.artworkGallery > div.show:nth-child(5){
+    transition-delay: 1000ms;
+    
+}
+    */
+
+
+/*OLD*/
+
+/*
+.artworkGallery > div:nth-child(1){
+    transition-delay: 200ms;
+
+}
+
+.artworkGallery:nth-child(2){
+    transition-delay: 400ms;
+    
+}
+
+.artworkGallery:nth-child(3){
+    transition-delay: 600ms;
+    
+}
+.artworkGallery:nth-child(4){
+    transition-delay: 800ms;
+    
+}
+
+.artworkGallery:nth-child(5){
+    transition-delay: 1000ms;
+    
+}
+*/
+
+>>>>>>> d34849529184a4ed4c70ecb5d9147309a22b4fd3
 
 /*fist artwork*/
 
@@ -596,6 +735,13 @@ section{
     background-position-y:20%;
     /*background-size: 100% 100%;  */
     z-index: 1;
+<<<<<<< HEAD
+=======
+
+    /* transform: 0.3s ease-out, outline 0.3s ease-out; */
+   
+    /*padding: 20px 10%; */
+>>>>>>> d34849529184a4ed4c70ecb5d9147309a22b4fd3
 }
 
 .portfolioArtwork1:hover{
@@ -837,6 +983,12 @@ section{
     align-items: center;
     justify-content: center;
     z-index: 1000; /* Ensure it is above all other content */
+<<<<<<< HEAD
+=======
+
+      
+
+>>>>>>> d34849529184a4ed4c70ecb5d9147309a22b4fd3
     outline: 3px solid #bd2511;
    
     /*display: flex; */
@@ -878,6 +1030,12 @@ section{
     align-items: center;
     justify-content: center;
     z-index: 1000; /* Ensure it is above all other content */
+<<<<<<< HEAD
+=======
+
+      
+
+>>>>>>> d34849529184a4ed4c70ecb5d9147309a22b4fd3
     outline: 3px solid #bd2511;
    
     /*display: flex; */
@@ -914,6 +1072,15 @@ section{
     background-size:cover;
 
     background-repeat: infinite;
+<<<<<<< HEAD
+=======
+    /*background-size: auto 100%; */
+    
+    /*background: no-repeat; */
+    /*background:scroll; */
+    
+
+>>>>>>> d34849529184a4ed4c70ecb5d9147309a22b4fd3
     display: flex;
     align-items: center;
     justify-content: center;
@@ -993,6 +1160,11 @@ section{
     justify-content: center;
     position:relative;
     /*background-image: url('Images/RobotSpriteSheet.png'); */ /*(Daily Paintworks, n.d.)*/
+<<<<<<< HEAD
+=======
+    
+    /*z-index: 1; */
+>>>>>>> d34849529184a4ed4c70ecb5d9147309a22b4fd3
 }
 
 .portfolioArtwork4Zoomed:hover{
@@ -1048,10 +1220,24 @@ section{
     align-items: center;
     justify-content: center;
     z-index: 1000; /* Ensure it is above all other content */
+<<<<<<< HEAD
     outline: 3px solid #bd2511;
     align-items: center;
     justify-content: center;
     position:relative;
+=======
+
+      
+
+    outline: 3px solid #bd2511;
+   
+    /*display: flex; */
+    align-items: center;
+    justify-content: center;
+    position:relative;
+    
+    /*z-index: 1; */
+>>>>>>> d34849529184a4ed4c70ecb5d9147309a22b4fd3
 }
 
 .portfolioArtwork5Zoomed:hover{
@@ -1091,12 +1277,21 @@ section{
     text-align: center;
     margin-top: 0px;
     z-index: 1001; /* Ensure it is above the zoomed image */
+<<<<<<< HEAD
+=======
+
+>>>>>>> d34849529184a4ed4c70ecb5d9147309a22b4fd3
     margin-bottom: 150px;
 }
 
 .artDescription h4{
     font-weight: bold;
+<<<<<<< HEAD
     font-style: italic; 
+=======
+    font-style: italic;
+    
+>>>>>>> d34849529184a4ed4c70ecb5d9147309a22b4fd3
     margin-top: 20px;
 }
 
@@ -1111,6 +1306,15 @@ section{
 
     margin-top: 0px;
     margin-bottom: 20px;
+<<<<<<< HEAD
+=======
+
+    /*
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    */
+>>>>>>> d34849529184a4ed4c70ecb5d9147309a22b4fd3
 }
 
 /*BackToPortfolio button styling(portfolio expanded page, back button)*/
@@ -1308,10 +1512,27 @@ footer ul li{
     color: white;
     border-bottom: 3px solid transparent;
     transition: 0.3s ease;
+<<<<<<< HEAD
+=======
+
+
+    /*
+    display: inline-block;
+    margin: 0 15px;
+    */
+>>>>>>> d34849529184a4ed4c70ecb5d9147309a22b4fd3
 }
 
 footer ul li a:hover{
     border-bottom: 3px solid #bd2511;
+<<<<<<< HEAD
+=======
+
+    /*
+    color: white;
+    text-decoration: none;
+    */
+>>>>>>> d34849529184a4ed4c70ecb5d9147309a22b4fd3
 }
 
 .footer ul li{
@@ -1326,6 +1547,7 @@ footer ul li a:hover{
     color: white
 }
 
+<<<<<<< HEAD
 .profilePicture{
     position: fixed;
     margin-top: 0vh;
@@ -1348,3 +1570,10 @@ transition: border 0.3 ease;
 .aboutme-info{
     margin-left: 12vw;
 }
+=======
+/*
+section.contact-page{
+
+}
+*/
+>>>>>>> d34849529184a4ed4c70ecb5d9147309a22b4fd3
